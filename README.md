@@ -5,7 +5,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwinr417&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=tokyonight)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&show_icons=true&theme=tokyonight)
 
