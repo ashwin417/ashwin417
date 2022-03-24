@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 ### This is R Ashwin!
-- 🌱 I’m currently Studying Computer Science Engineering At CEC.
+- 🌱 I’m currently pursueing BTech Computer Science Engineering At CEC.
+- 🌱 A Pentester Newbie and A Part-Time Programmer
 
 ![](https://komarev.com/ghpvc/?username=ashwin417&color=blueviolet)
 
