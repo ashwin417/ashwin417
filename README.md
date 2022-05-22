@@ -3,8 +3,13 @@
 ### This is R Ashwin!
 - 🌱 I’m currently pursueing BTech Computer Science Engineering At CEC.
 - 🌱 A Pentester Newbie and A Part-Time Programmer
+<img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
 
 ![](https://komarev.com/ghpvc/?username=ashwin417&color=blueviolet)
+
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=cobalt&hide_border=true" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashwin417&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
@@ -12,14 +17,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=cobalt&hide_border=true" />
 
-<script src="https://tryhackme.com/badge/925730"></script>
-
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=tokyonight)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&show_icons=true&theme=tokyonight)-->
 
-<script src="https://tryhackme.com/badge/925730"></script>
 
 
 - 📫 How to reach me:
