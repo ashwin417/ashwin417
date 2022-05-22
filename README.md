@@ -12,7 +12,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=cobalt&hide_border=true" />
 
-
+<script src="https://tryhackme.com/badge/925730"></script>
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=tokyonight)
