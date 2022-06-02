@@ -3,7 +3,10 @@
 ### This is R Ashwin!
 - 🌱 I’m currently pursueing BTech Computer Science Engineering At CEC.
 - 🌱 A Pentester Newbie and A Part-Time Programmer
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
+
+
 
 ![](https://komarev.com/ghpvc/?username=ashwin417&color=blueviolet)
 
