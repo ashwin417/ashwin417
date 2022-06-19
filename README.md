@@ -12,7 +12,7 @@
 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=cobalt&hide_border=true" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashwin417&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
