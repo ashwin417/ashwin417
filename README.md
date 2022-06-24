@@ -4,25 +4,15 @@
 - 🌱 I’m currently pursueing BTech Computer Science Engineering At CEC.
 - 🌱 A Pentester Newbie and A Part-Time Programmer
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
-
-
 
 ![](https://komarev.com/ghpvc/?username=ashwin417&color=blueviolet)
 
+### My Github Stats
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=cobalt&hide_border=false" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=cobalt&hide_border=true" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashwin417&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-
-
-
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&show_icons=true&theme=tokyonight)-->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=ashwin417&theme=vue-dark&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
+![](https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=tokyonight)
 
 
 
@@ -39,8 +29,16 @@
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
   />
+  
 </a>
 
+<a href="https://www.twitter.com/in/ashwin_r7//">
+  <img
+    alt="Twitter"
+    src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"
+  />
+  
+</a>
 
 
 
