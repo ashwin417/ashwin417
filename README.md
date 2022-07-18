@@ -15,7 +15,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=tokyonight)
 
-### Acheivements 
+### Profiles 
 
 #### Pentesting Profile in tryhackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
