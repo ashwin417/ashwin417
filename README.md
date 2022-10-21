@@ -20,6 +20,10 @@
 #### Pentesting Profile in tryhackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
 
+### Github Trophies
+
+https://github-profile-trophy.vercel.app/?username=ashwin417&no-bg=true
+
 
 
 
