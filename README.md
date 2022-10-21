@@ -22,9 +22,8 @@
 
 ### Github Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ashwin417&no-bg=true)](https://github-profile-trophy.vercel.app/?username=ashwin417&no-bg=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ashwin417&no-bg=true&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=ashwin417&no-bg=true&row=2&column=3)
 
-https://github-profile-trophy.vercel.app/?username=ashwin417&no-bg=true
 
 
 
