@@ -49,7 +49,9 @@
 ### Profiles 
 
 #### Pentesting Profile in tryhackme
-<img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
+<a href="https://tryhackme.com/p/ashwinr7603">
+      <img src= "https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge"/>
+   <a/>  <img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
 
 <a href="https://app.hackthebox.com/profile/986042">
 `<img
@@ -60,24 +62,25 @@
 
 #### Coding Profiles
 <a href="https://www.hackerrank.com/ashwinr2">
-`<img
+<img
    alt="Hackerrank"
     src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
   />
  </a>
  
  #### Writing 
- <a href ="">
+ <a href ="https://dev.to/ashwin_r7">
       <img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/> 
   </a>
- <a href ="">
+ <a href ="https://medium.com/@ash60495/about">
    <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/> 
   </a>
-  <a href = "">
+  <a href = "https://auth.geeksforgeeks.org/user/6tjezlmublotaltdtkmjy6exsv2012qu33t1t3i0/">
    <img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
-
-![Wattpad Badge](https://img.shields.io/badge/Wattpad-FF500A?logo=wattpad&logoColor=fff&style=for-the-badge)
+  <a href="https://www.wattpad.com/user/AshwinR5">
+      <img src = "https://img.shields.io/badge/Wattpad-FF500A?logo=wattpad&logoColor=fff&style=for-the-badge"/>
+   </a>
 
 ### Github Trophies
 
