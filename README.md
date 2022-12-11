@@ -51,6 +51,14 @@
 #### Pentesting Profile in tryhackme
 <img src="https://tryhackme-badges.s3.amazonaws.com/ashwinr7603.png" alt="TryHackMe">
 
+<a href="https://app.hackthebox.com/profile/986042">
+`<img
+   alt="HackTheBox"
+    src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"
+  />
+ </a> 
+
+#### Coding Profiles
 <a href="https://www.hackerrank.com/ashwinr2">
 `<img
    alt="Hackerrank"
@@ -58,12 +66,7 @@
   />
  </a>
  
-<a href="https://app.hackthebox.com/profile/986042">
-`<img
-   alt="HackTheBox"
-    src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00"
-  />
- </a> 
+ #### Writing 
  <a href ="">
       <img src = "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/> 
   </a>
@@ -74,7 +77,7 @@
    <img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
 
-
+![Wattpad Badge](https://img.shields.io/badge/Wattpad-FF500A?logo=wattpad&logoColor=fff&style=for-the-badge)
 
 ### Github Trophies
 
