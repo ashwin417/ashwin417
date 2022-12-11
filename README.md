@@ -92,7 +92,7 @@
 
 - 📫 How to reach me:
 
-<a href="https://www.instagram.com/__r._ashwin_.__/">
+<a href="https://www.instagram.com/ashu._.r7">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
