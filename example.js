@@ -40,6 +40,6 @@
         </div>
 
         <!-- include and initialise termynal.js -->
-        <script src="term.js" data-termynal-container="#term"></script>
+        <script src="termynal.js" data-termynal-container="#termynal"></script>
     </body>
 </html>
