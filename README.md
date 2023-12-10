@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### This is R Ashwin!
-- 🌱 I’m currently pursueing BTech Computer Science Engineering At CEC.
+- 🌱 I’m currently pursuing BTech Computer Science Engineering At CEC.
 - 🌱 A Pentester and A Programmer
 
 
