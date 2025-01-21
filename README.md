@@ -21,7 +21,7 @@
 
 [root@Ash:~]# sys-info
   Course          : BTECH
-  Year            : 4
+  Status          : Completed
   Specialization  : Computer Science And Engineering
 
 [root@Ash:~]# realms
@@ -30,9 +30,9 @@
   [2] React & React Native   [██████░░░░░░░░]
   [3] Machine Learning       [██░░░░░░░░░░░░] 
   [4] Linux                  [██████████░░░░]
-  [5] Networking             [███░░░░░░░░░░░]
+  [5] Networking             [███████░░░░░░░]
 [root@Ash:~]# updated
-  Last Updated on 20/12/2023 10:29:52 PM IST
+  Last Updated on 21/01/2024 09:42:52 AM IST
 
 [root@Ash:~]# Socials
   curl [██████████░░░░] Loading...
