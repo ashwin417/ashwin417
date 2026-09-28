@@ -1,184 +1,140 @@
-<p align="center">
-  <img src="rashwin.jpeg" alt="R. Ashwin" width="800" />
-</p>
+<div align="center">
 
-<h3 align="center">Software Engineer · AS400/iSeries Modernization · AI-Assisted Development</h3>
+<img src="file_00000000bb8c81f8b685e526bc40fa75.png" alt="R. Ashwin — Software Engineer @ UST Global — AS400 / AI / Cloud / Security" width="800" />
 
-<p align="center">
-  <sub>Backend · Cloud (learning) · Automation · Security (learning)</sub>
-</p>
+Working on enterprise modernization while exploring AI-assisted development and modern software engineering.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashu-r7/"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/ashwin_r7"><img src="https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://github.com/ashwin417"><img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/ashu-r7/)
+[![GitHub](https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=white)](https://github.com/ashwin417)
+[![X](https://img.shields.io/badge/X-0A0A0A?style=flat-square&logo=x&logoColor=white)](https://twitter.com/ashwin_r7)
 
----
+</div>
 
-```
-[root@ashwin ~]# whoami
+<br>
 
-R. Ashwin (Ashwin Rajesh)
-Developer 1 - Software Engineering @ UST Global
-B.Tech CSE, College of Engineering Chengannur ('20-'24)
+### 💼 Currently
 
-[root@ashwin ~]# current_work
+| 💼 Work | 🤖 AI | ☁️ Learning | 🔐 Interest |
+|:---:|:---:|:---:|:---:|
+| AS400 Modernization | Copilot | Google Cloud | Security |
+| RPGLE · CL · SQL | Claude Code | Backend | Automation |
 
-AS400 / iSeries modernization (enterprise client)
-Reading legacy RPGLE/CL programs, mapping business logic
-Documenting behavior for a replatforming effort
+<br>
 
-[root@ashwin ~]# focus
+### 🏢 AS400 → Modernization
 
-Backend development
-Google Cloud (learning)
-AI-assisted development & automation
-Cybersecurity (learning)
-```
+`AS400/IBM i` → `RPGLE/CL/SQL` → `Business Logic` → `Documentation` → `Modernization`
 
----
+Reading legacy enterprise programs and translating existing business logic into documentation for modernization.
 
-## Currently
+### 🤖 AI-Assisted Development
 
-| | |
-|---|---|
-| 💼 **Work** | Developer 1 – Software Engineering at UST Global, on an enterprise AS400/iSeries modernization project. |
-| 🤖 **AI / Automation** | Using GitHub Copilot and Claude/Claude Code day to day — for development, scripting, and experimenting with AI-assisted reverse-engineering of legacy code. |
-| ☁️ **Learning** | Google Cloud fundamentals — holds the Google Cloud Digital Leader certification, working toward deeper hands-on GCP knowledge. |
-| 🔐 **Security** | Cybersecurity as a standing interest — CPT training background, active practice on TryHackMe / HackTheBox. |
+`Legacy Code/Task` → `AI Assist (Copilot/Claude)` → `Review` → `Test` → `Ship`
 
----
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-0A0A0A?style=flat-square&logo=githubcopilot&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-0A0A0A?style=flat-square&logo=anthropic&logoColor=D97757) ![Automation](https://img.shields.io/badge/Automation-0A0A0A?style=flat-square)
 
-## AS400 → Modernization
+Using AI to speed up development and exploration, with human review always in the loop.
 
-Day to day, this means reading existing **RPGLE**, **CL**, and **SQL/DB2 for i** programs on IBM i, working out what the business logic actually does, and documenting that understanding so it can feed into a modernization/replatforming effort — not designing the target architecture, but doing the legwork of understanding what the legacy system does today.
+<br>
 
-```
-Legacy AS400/iSeries programs (RPGLE, CL, DDS)
-        ↓
-Reading the code & business logic
-        ↓
-Understanding, notes & documentation
-        ↓
-Feeds into modernization work
-```
+### ⚙️ Tech Stack
 
-Public notes from this: **[as400_myNotes](https://github.com/ashwin417/as400_myNotes)** — a personal notes dump from learning IBM i: lecture notes, a command cheatsheet, and an errors-and-fixes log, kept public as-is rather than as polished documentation.
+<table>
+<tr><td><b>Engineering</b></td><td>Java · Python · JavaScript/TypeScript · Rust · SQL</td></tr>
+<tr><td><b>Enterprise</b></td><td>RPGLE · CL · DB2 for i</td></tr>
+<tr><td><b>Frontend/Mobile</b></td><td>React · React Native · HTML/CSS</td></tr>
+<tr><td><b>Cloud & Tools</b></td><td>Google Cloud · Git · Linux</td></tr>
+<tr><td><b>AI</b></td><td>GitHub Copilot · Claude · Claude Code</td></tr>
+<tr><td><b>Security</b></td><td>Linux · Networking · Web Security</td></tr>
+</table>
 
----
+<br>
 
-## AI-Assisted Development
+### 🚀 Featured Builds
 
-I use AI tools as part of my regular workflow rather than as a novelty — mainly **GitHub Copilot** and **Claude / Claude Code**, for writing and reviewing code, scripting small automations, and experimenting with using AI to help read and explain unfamiliar legacy code.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```
-Understand the problem
-        ↓
-AI assistance (Copilot / Claude Code)
-        ↓
-Review the output
-        ↓
-Test
-        ↓
-Refine
-```
+**🖐️ Gesture Desktop**
+Real-time hand-gesture mouse control for Ubuntu.
+`Python` `OpenCV` `MediaPipe`
+[repo →](https://github.com/ashwin417/gesture-desktop)
 
-AI speeds up the first draft; I still read, run, and validate everything before it counts as done. One concrete example: **[Gamecraft](https://github.com/ashwin417/Gamecraft)**, a browser game built end-to-end through Claude Code as a hands-on experiment in directing an AI coding agent — see [Experiments](#experiments--lab) below.
+</td>
+<td width="50%" valign="top">
 
----
+**🎓 Study Terminal**
+Self-built terminal-style exam-prep app.
+`HTML` `CSS` `JS`
+[repo →](https://github.com/ashwin417/ccdvf-prep)
 
-## Tech Stack
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Languages**
-`Python` · `JavaScript` / `TypeScript` · `Java` · `Rust` · `SQL` · `RPGLE` / `CL` (enterprise work)
+**📱 LifeOS**
+Habit & health tracker with step tracking and charts.
+`React Native` `TypeScript` `SQLite`
+[repo →](https://github.com/ashwin417/LifeOS)
 
-**Frontend / Mobile**
-`React` · `React Native (Expo)` · `HTML/CSS` · Vanilla JS
+</td>
+<td width="50%" valign="top">
 
-**Systems**
-`Rust` (shell, early OS/kernel experiments) · Multi-threaded Python (computer vision, real-time I/O)
+**📓 AS400 Notes**
+Public RPGLE/CL/SQL notes from learning IBM i.
+`RPGLE` `CL` `SQL`
+[repo →](https://github.com/ashwin417/as400_myNotes)
 
-**Cloud / Tools**
-`Git` / `GitHub` · `Linux` · `Google Cloud` (learning)
+</td>
+</tr>
+</table>
 
-**AI-Assisted Development**
-`GitHub Copilot` · `Claude` / `Claude Code`
+<br>
 
-**Enterprise / Legacy**
-`AS400 (IBM i)` · `RPGLE` · `CL` · `DB2 for i`
+### 🧪 Lab / Experiments
 
----
+![AI Agents](https://img.shields.io/badge/AI_Agents-0A0A0A?style=flat-square) ![Rust](https://img.shields.io/badge/Rust-0A0A0A?style=flat-square) ![OS/Kernel](https://img.shields.io/badge/OS%2FKernel-0A0A0A?style=flat-square) ![Game Dev](https://img.shields.io/badge/Game_Dev-0A0A0A?style=flat-square)
 
-## Featured Projects
+Prototypes and things I'm currently trying to break — preferably before production does.
 
-**[Gesture-Controlled Desktop](https://github.com/ashwin417/gesture-desktop)** — a real-time hand-gesture mouse and launcher for Ubuntu.
-`Python` · `OpenCV` · `MediaPipe` · `Tkinter`
-Tracks hand landmarks from a webcam and turns them into cursor movement, clicks, drag-and-drop, and scrolling, with a floating HUD overlay, a radial app launcher, and optional voice commands, run across a multi-threaded camera/tracking/UI pipeline.
+[Gamecraft](https://github.com/ashwin417/Gamecraft) · [rash](https://github.com/ashwin417/rash) · [ash_murmur](https://github.com/ashwin417/ash_murmur) <sub>(early, not working yet)</sub>
 
-**[Study Terminal (ccdvf-prep)](https://github.com/ashwin417/ccdvf-prep)** — a self-built exam-prep tool.
-`HTML` / `CSS` / `JavaScript`
-A single-page study app with course content, terminal-style hands-on labs, a simulated Claude Desktop environment, and a scored practice exam that tracks progress, weak topics, and attempt history in `localStorage`. Built as a personal study aid, not a claim of certification.
+<br>
 
-**[LifeOS](https://github.com/ashwin417/LifeOS)** — a personal habit/health tracker mobile app.
-`React Native (Expo)` · `TypeScript` · `expo-sqlite` · `Zustand`
-A cross-platform app with step tracking via the device pedometer, habit and workout logging, and an analytics tab with charts, backed by local SQLite storage and a Zustand store.
-
-**[as400_myNotes](https://github.com/ashwin417/as400_myNotes)** — public notes from learning RPGLE/CL/SQL on IBM i.
-`RPGLE` · `CL` · `SQL` / `DB2 for i`
-A working notes dump from learning IBM i — lecture notes, a command cheatsheet, sample RPGLE programs (subfiles, screens, calculations), and a running errors-and-fixes log. Not curated documentation, just where the notes live.
-
----
-
-## Experiments / Lab
-
-- **[Gamecraft](https://github.com/ashwin417/Gamecraft)** — a browser game built entirely through Claude Code (agentic AI coding), as an experiment in directing an AI agent through iterative feature requests, bug reports, and automated test passes rather than hand-writing the game itself.
-- **[rash](https://github.com/ashwin417/rash)** — an early-stage Unix shell written in Rust (`cd`, `exit`, external command execution) — a small project for learning shell internals and Rust.
-- **[ash_murmur](https://github.com/ashwin417/ash_murmur)** — an attempt at a bare-metal OS kernel for AArch64 in Rust. Not working yet — early experiment in low-level Rust and OS/kernel concepts (boot, MMIO, a GPU driver), not a functioning system.
-
----
-
-## Experience
+### 📌 Experience
 
 | Period | Role |
 |---|---|
-| Dec 2024 – Present | **Developer 1 – Software Engineering**, UST Global |
-| 2020 – 2024 | **B.Tech, Computer Science Engineering**, College of Engineering Chengannur |
+| 2024 – Present | Developer 1 — Software Engineering, UST Global |
+| 2020 – 2024 | BTech CSE — College of Engineering Chengannur |
 
----
+### 🏅 Certification
 
-## Certifications
+Google Cloud Digital Leader
 
-- Google Cloud Digital Leader
+### 📚 Currently Exploring
 
----
+![GCP](https://img.shields.io/badge/Google_Cloud-0A0A0A?style=flat-square) ![Backend](https://img.shields.io/badge/Backend_Engineering-0A0A0A?style=flat-square) ![AI](https://img.shields.io/badge/AI--Assisted_Dev-0A0A0A?style=flat-square) ![Security](https://img.shields.io/badge/Cloud_Security-0A0A0A?style=flat-square) ![Design](https://img.shields.io/badge/System_Design-0A0A0A?style=flat-square)
 
-## Currently Learning
+<br>
 
-- Google Cloud (toward deeper hands-on GCP skills)
-- Backend development fundamentals
-- AI-assisted development workflows
-- Cybersecurity basics (Linux, networking, web security)
+### 📊 Stats
 
----
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="top langs"/>
+</div>
 
-## Connect
+<br>
 
-| Professional | Writing | Security |
-|---|---|---|
-| [LinkedIn](https://www.linkedin.com/in/ashu-r7/) · [X](https://twitter.com/ashwin_r7) | [Dev.to](https://dev.to/ashwin_r7) · [Medium](https://medium.com/@ash60495/about) | [TryHackMe](https://tryhackme.com/p/ashwinr7603) · [HackTheBox](https://app.hackthebox.com/profile/986042) |
+<div align="center">
 
----
+### 🔗 Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwin417&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" alt="Top Languages" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwin417&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="150" />
-</p>
+[💼 LinkedIn](https://www.linkedin.com/in/ashu-r7/) &nbsp;·&nbsp; [🐙 GitHub](https://github.com/ashwin417) &nbsp;·&nbsp; [🐦 X](https://twitter.com/ashwin_r7)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashwin417&color=2b3446&style=flat-square" alt="Profile views" />
-</p>
+<sub><code>LEARN / BUILD / AUTOMATE / GROW</code></sub>
 
-<p align="center">
-  <sub><code>LEARN / BUILD / AUTOMATE / GROW</code></sub>
-</p>
+</div>
